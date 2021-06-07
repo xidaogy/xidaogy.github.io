@@ -9,6 +9,6 @@ redirect_from:
 ---
 Under Construction
 
-#Research Areas
+# Research Areas
 
-#Education
+# Education
