@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "日本語"
-    url: /japanese/    
+  - title: "English"
+    url: /english/    
     
   - title: "简体中文"
     url: /chinese/
     
-  - title: "Publications and Talks"
+  - title: "Publications"
     url: /publications/  
 
 
