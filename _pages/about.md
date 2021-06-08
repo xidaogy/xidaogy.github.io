@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-東京工業大学 工学院 経営工学系 修士課程</br>
-清華大学 人文学院 中国語言文学系 修士課程</br>
-<span style="font-size: 90%;">[English version is here](https://xidaogy.github.io/english/)</br>
+東京工業大学 工学院 経営工学系 修士課程
+
+清華大学 人文学院 中国語言文学系 修士課程
+
+<span style="font-size: 90%;">[English version is here](https://xidaogy.github.io/english/)
+  
  [简体中文版点击此处](https://xidaogy.github.io/chinese/)</span>
 
 ## 研究領域
