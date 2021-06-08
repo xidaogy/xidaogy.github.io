@@ -4,9 +4,9 @@ title: "NISHIJIMA Mitsuhiro"
 permalink: /english/
 author_profile: true
 ---
-Master Student, Tokyo Institute of Technology</br>
-Master Student, Tsinghua University</br>
-<span style="font-size: 90%;">[日本語版はこちら](https://xidaogy.github.io)</br>
+Master Student, Tokyo Institute of Technology<br>
+Master Student, Tsinghua University<br>
+<span style="font-size: 90%;">[日本語版はこちら](https://xidaogy.github.io)<br>
  [简体中文版点击此处](https://xidaogy.github.io/chinese/)</span>
 
 ## Research Interests
