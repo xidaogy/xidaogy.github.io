@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Presentations"
 permalink: /publications/
 author_profile: true
 ---
-# Publication
+# Publications
 ## Refereed Journal Paper
 1. Mitsuhiro Nishijima, Kazuhide Nakata. “A Block Coordinate Descent Method for Sensor Network Localization,” Optimization Letters, to appear.
 
