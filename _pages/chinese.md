@@ -4,10 +4,10 @@ title: "西岛光洋"
 permalink: /chinese/
 author_profile: true
 ---
-东京工业大学 工学院 经营工学系 硕士课程</br>
-清华大学 人文学院 中国语言文学系 硕士课程</br>
-<span style="font-size: 90%;">[日本語版はこちら](https://xidaogy.github.io)</br>
- [English version is here](https://xidaogy.github.io/english/)
+东京工业大学 工学院 经营工学系 硕士课程<br>
+清华大学 人文学院 中国语言文学系 硕士课程<br>
+<span style="font-size: 90%;">[日本語版はこちら](https://xidaogy.github.io)<br>
+ [English version is here](https://xidaogy.github.io/english/)</span>
 
 ## 研究方向
 - 数学规划（东京工业大学）
