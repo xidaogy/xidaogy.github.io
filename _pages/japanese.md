@@ -4,10 +4,10 @@ title: "西島光洋"
 permalink: /japanese/
 author_profile: true
 ---
-作成中
+作成中。
 
 # 研究領域
-作成中
+作成中。
 
 # 学歴
 - 2015年3月：神奈川県立横浜翠嵐高等学校全日制 卒業
