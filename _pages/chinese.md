@@ -4,6 +4,8 @@ title: "西岛光洋"
 permalink: /chinese/
 author_profile: true
 ---
+[日本語版](https://xidaogy.github.io) / [English version](https://xidaogy.github.io/english/)
+
 # 研究方向
 - 数学规划（东京工业大学）
   - 完全正规化、协正规划
