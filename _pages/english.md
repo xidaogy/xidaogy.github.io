@@ -4,6 +4,8 @@ title: "NISHIJIMA Mitsuhiro"
 permalink: /english/
 author_profile: true
 ---
+[日本語版](https://xidaogy.github.io) / [简体中文版](https://xidaogy.github.io/chinese/)
+
 # Research Interests
   - Mathematical Programming (at Tokyo Institute of Technology)
     - Completely Positive Programming / Copositive Programming
