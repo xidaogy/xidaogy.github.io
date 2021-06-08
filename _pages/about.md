@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-English version is [here](https://xidaogy.github.io/english/).
-<br>
-简体中文版点击[此处](https://xidaogy.github.io/chinese/)。
+[English version](https://xidaogy.github.io/english/) / [简体中文版](https://xidaogy.github.io/chinese/)
 
 # 研究領域
 - 数理最適化（東京工業大学）
