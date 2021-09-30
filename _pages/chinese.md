@@ -4,7 +4,7 @@ title: "西岛光洋"
 permalink: /chinese/
 author_profile: true
 ---
-东京工业大学 工学院 经营工学系 硕士课程<br>
+东京工业大学 工学院 经营工学系 博士课程<br>
 <span style="font-size: 90%;">[日本語版はこちら](https://xidaogy.github.io)<br>
  [English version is here](https://xidaogy.github.io/english/)</span>
 
@@ -20,6 +20,8 @@ author_profile: true
 - 2019年4月：东京工业大学 工学院 经营工学系 入学
 - 2019年9月：清华大学 人文学院 中国语言文学系 入学
 - 2021年8月：清华大学 人文学院 中国语言文学系 毕业 获得文学硕士学位
+- 2021年9月：东京工业大学 工学院 经营工学系 毕业 获得工学硕士学位
+- 2021年9月：东京工业大学 工学院 经营工学系 入学
 
 ## 教学经历
 - 2020年10月–2020年12月：于东京工业大学担任“数理工学”课程的助教
