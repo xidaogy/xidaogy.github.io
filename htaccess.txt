@@ -1,0 +1,3 @@
+Order allow,deny
+allow from all
+deny from 60.117.50.15
