@@ -21,6 +21,7 @@ author_profile: true
 ## Presentations
 ### Oral Presentation in International Conference
 1. Mitsuhiro Nishijima, Kazuhide Nakata. “A Block Coordinate Descent Method for Sensor Network Localization,” SIAM Conference on Optimization, CP8, Online, July 2021.
+2. Mitsuhiro Nishijima, Ying Liu. “Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus,” The 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 35), Online, November 2021.
 
 ### Oral Presentation in Domestic Conference
 1. 西島光洋・中田和秀「階数制約を伴うセンサーネットワーク位置推定問題に対するブロック座標降下法」京都大学数理解析研究所 共同研究(グループ型) 数理最適化の理論・アルゴリズム・応用, オンライン, 2020年8月.
