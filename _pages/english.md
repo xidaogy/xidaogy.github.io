@@ -19,3 +19,9 @@ Ph.D. Student, Tokyo Institute of Technology<br>
 - April 2019–September 2021: Master of Engineering, Department of Industrial Engineering and Economics, School of Engineering, Tokyo Institute of Technology
 - September 2019–August 2021: Master of Arts in Literature, Department of Chinese Language and Literature, School of Humanities, Tsinghua University
 - September 2021–present: Ph.D. student, Department of Industrial Engineering and Economics, School of Engineering, Tokyo Institute of Technology
+
+## Fellowship
+- October 2021-present: Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students
+
+## Society Menbership
+- The Operations Research Society of Japan
