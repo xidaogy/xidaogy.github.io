@@ -21,7 +21,7 @@ Ph.D. Student, Tokyo Institute of Technology<br>
 - September 2021–present: Ph.D. student, Department of Industrial Engineering and Economics, School of Engineering, Tokyo Institute of Technology
 
 ## Fellowship
-- October 2021-present: Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students
+- October 2021–present: Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students
 
 ## Society Menbership
 - The Operations Research Society of Japan
