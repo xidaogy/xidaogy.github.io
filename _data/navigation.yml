@@ -2,7 +2,7 @@
 main:
   - title: "Publications and Talks"
     url: /publications/
-  -title: "日本語"
+  - title: "日本語"
     url: /japanese/ 
   - title: "English"
     url: /english/
