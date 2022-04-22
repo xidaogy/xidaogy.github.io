@@ -1,7 +1,9 @@
 # main links links
 main:
   - title: "Publications and Talks"
-    url: /publications/  
+    url: /publications/
+  -title: "日本語"
+    url: /japanese/ 
   - title: "English"
     url: /english/
   - title: "简体中文"
