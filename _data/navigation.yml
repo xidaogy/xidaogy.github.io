@@ -2,10 +2,7 @@
 main:
   - title: "Publications and Talks"
     url: /publications/  
-	
   - title: "English"
     url: /english/
-	
   - title: "简体中文"
     url: /chinese/
-	
