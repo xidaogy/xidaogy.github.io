@@ -5,14 +5,10 @@ permalink: /english/
 author_profile: true
 ---
 Ph.D. Student, Tokyo Institute of Technology<br>
-<span style="font-size: 90%;">[日本語版はこちら](https://xidaogy.github.io)<br>
- [简体中文版点击此处](https://xidaogy.github.io/chinese/)</span>
 
 ## Research Interests
-  - Mathematical Programming
-    - Completely Positive Programming / Copositive Programming
-    - Rank-Constrained Semidefinite Programming
-  - Quantitative Analysis of Interlanguage
+- Mathematical Programming
+  - Completely Positive Programming / Copositive Programming
 
 ## Education
 - April 2015–March 2019: Bachelor of Science, Department of Mathematics, Faculty of Science and Technology, Keio University
@@ -21,7 +17,8 @@ Ph.D. Student, Tokyo Institute of Technology<br>
 - September 2021–present: Ph.D. student, Department of Industrial Engineering and Economics, School of Engineering, Tokyo Institute of Technology
 
 ## Fellowship
-- October 2021–present: Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students
+- October 2021–March 2022: Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students
+- April 2022-present: Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science
 
 ## Society Menbership
 - The Operations Research Society of Japan
