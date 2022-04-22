@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NISHIJIMA Mitsuhiro"
+#title                    : "NISHIJIMA Mitsuhiro"
 title_separator          : "-"
 name                     : &name "NISHIJIMA Mitsuhiro"
 description              : &description "personal description"
