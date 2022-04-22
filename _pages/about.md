@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /japanese/
 title: "西島光洋"
 excerpt: "About me"
 author_profile: true
