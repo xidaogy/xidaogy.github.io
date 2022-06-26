@@ -22,3 +22,4 @@ Ph.D. Student, Tokyo Institute of Technology<br>
 
 ## Society Menbership
 - The Operations Research Society of Japan
+- The Japan Society for Industrial and Applied Mathematics
