@@ -24,6 +24,7 @@ author_profile: true
 1. Mitsuhiro Nishijima, Kazuhide Nakata. “A Block Coordinate Descent Method for Sensor Network Localization,” SIAM Conference on Optimization, CP8, Online, July 2021.
 2. Mitsuhiro Nishijima, Ying Liu. “Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus,” The 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 35), Online, November 2021.
 3. Mitsuhiro Nishijima, Kazuhide Nakata. “Generalization of Doubly Nonnegative Cone: Focusing on Inner-Approximation for Generalized Copositive Cone,” 2022 INFORMS Annual Meeting, TE54, Indianapolis Marriott Downtown, October 2022.
+4. Mitsuhiro Nishijima, Kazuhide Nakata. “Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison,” International Workshop on Continuous Optimization, Online, December 2022.
 
 ### Oral Presentations in Domestic Conference
 1. 西島光洋・中田和秀「階数制約を伴うセンサーネットワーク位置推定問題に対するブロック座標降下法」京都大学数理解析研究所 共同研究(グループ型) 数理最適化の理論・アルゴリズム・応用, オンライン, 2020年8月.
