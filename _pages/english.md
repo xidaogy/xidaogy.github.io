@@ -16,11 +16,12 @@ Ph.D. Student, Tokyo Institute of Technology<br>
 - September 2019–August 2021: Master of Arts in Literature, Department of Chinese Language and Literature, School of Humanities, Tsinghua University
 - September 2021–present: Ph.D. student, Department of Industrial Engineering and Economics, School of Engineering, Tokyo Institute of Technology
 
-## Fellowship
+## Research and Work Experience
 - October 2021–March 2022: Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students
 - April 2022-present: Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science
+- April 2023-present: Special Inter-Institutional Research Fellows, The Institute of Statistical Mathematics
 
-## Society Menbership
+## Society Membership
 - The Operations Research Society of Japan
 - The Japan Society for Industrial and Applied Mathematics
 - The Institute for Operations Research and the Management Sciences
