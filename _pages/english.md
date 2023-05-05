@@ -5,6 +5,7 @@ permalink: /english/
 author_profile: true
 ---
 Ph.D. Student, Tokyo Institute of Technology<br>
+Research Fellow, The Institute of Statistical Mathematics<br>
 
 ## Research Interests
 - Mathematical Programming
