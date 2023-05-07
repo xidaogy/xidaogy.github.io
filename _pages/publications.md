@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Publications
 ### Refereed Journal Paper
-1. Mitsuhiro Nishijima, Kazuhide Nakata. “A Block Coordinate Descent Method for Sensor Network Localization,” Optimization Letters, 16: 1051–1071, 2022.
+1. Mitsuhiro Nishijima, Kazuhide Nakata. “<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel=”noopener noreferrer”>A Block Coordinate Descent Method for Sensor Network Localization</a>,” Optimization Letters, 16: 1051–1071, 2022.
 
 ### Refereed Conference Paper
 1. Mitsuhiro Nishijima, Ying Liu. “Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus,” Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 368–376, 2021.
@@ -16,8 +16,9 @@ author_profile: true
 2. Mitsuhiro Nishijima, Kazuhide Nakata. “Generalizations of Doubly Nonnegative Cones and Their Comparison,” arXiv:2204.12119, 2023.
 
 ### Non-Refereed Conferrence Papers
-1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021.
-2. 西島光洋「アジア／ヨーロッパ言語母語の日本語学習者による品詞使用量の差異―I-JASの2つの作文タスクを用いた調査―」言語資源活用ワークショップ発表論文集, 6:55–70, 2021.
+1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021. [<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel=”noopener noreferrer”>pdf</a>]
+2. 西島光洋「アジア／ヨーロッパ言語母語の日本語学習者による品詞使用量の差異―I-JASの2つの作文タスクを用いた調査―」言語資源活用ワークショップ発表論文集, 6: 55–70, 2021.
+3. Mitsuhiro Nishijima, Kazuhide Nakata. “Generalizations of Doubly Nonnegative Cones and Their Comparison,” Optimization --Modeling and Algorithms-- 34, The Institute of Statistical Mathematics Cooperative Research Report, 461: 14--30, 2023.
 
 ## Presentations
 ### Oral Presentations in International Conference
