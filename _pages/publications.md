@@ -16,7 +16,7 @@ author_profile: true
 2. Mitsuhiro Nishijima, Kazuhide Nakata. “Generalizations of Doubly Nonnegative Cones and Their Comparison,” arXiv:2204.12119, 2023.
 
 ### Non-Refereed Conferrence Papers
-1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021. [<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel=”noopener noreferrer”>pdf</a>]
+1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021. [<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
 2. 西島光洋「アジア／ヨーロッパ言語母語の日本語学習者による品詞使用量の差異―I-JASの2つの作文タスクを用いた調査―」言語資源活用ワークショップ発表論文集, 6: 55–70, 2021.
 3. Mitsuhiro Nishijima, Kazuhide Nakata. “Generalizations of Doubly Nonnegative Cones and Their Comparison,” Optimization --Modeling and Algorithms-- 34, The Institute of Statistical Mathematics Cooperative Research Report, 461: 14--30, 2023.
 
