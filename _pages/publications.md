@@ -6,8 +6,7 @@ author_profile: true
 ---
 ## Publications
 ### Refereed Journal Paper
-1. Mitsuhiro Nishijima, Kazuhide Nakata. "[
-<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>," Optimization Letters, 16: 1051–1071, 2022.
+1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>," Optimization Letters, 16: 1051–1071, 2022.
 
 ### Refereed Conference Paper
 1. Mitsuhiro Nishijima, Ying Liu. "<a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>," Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 368–376, 2021.
