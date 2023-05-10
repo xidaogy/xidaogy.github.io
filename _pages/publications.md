@@ -14,6 +14,7 @@ author_profile: true
 ### Preprints
 1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2211.12753" target="_blank" rel="noopener noreferrer">Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison</a>," arXiv:2211.12753, 2022.
 2. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">Generalizations of Doubly Nonnegative Cones and Their Comparison</a>," arXiv:2204.12119, 2023.
+3. Mitsuhiro Nishijima. "<a href="https://optimization-online.org/2023/05/on-the-longest-chain-of-faces-of-completely-positive-and-copositive-cones/" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>," Optimization Online, 2023.
 
 ### Non-Refereed Conferrence Papers
 1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021. [<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
