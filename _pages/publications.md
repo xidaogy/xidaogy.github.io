@@ -20,6 +20,7 @@ author_profile: true
 1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021. [<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
 2. 西島光洋「<a href="http://doi.org/10.15084/00003480" target="_blank" rel="noopener noreferrer">アジア／ヨーロッパ言語母語の日本語学習者による品詞使用量の差異―I-JASの2つの作文タスクを用いた調査―</a>」言語資源活用ワークショップ発表論文集, 6: 55&ndash;70, 2021.
 3. Mitsuhiro Nishijima, Kazuhide Nakata. "Generalizations of Doubly Nonnegative Cones and Their Comparison," Optimization &mdash;Modeling and Algorithms&mdash; 34, The Institute of Statistical Mathematics Cooperative Research Report, 461: 14&ndash;30, 2023.
+4. 西島光洋・中田和秀「対称錐上の共正値錐に対する近似階層とその比較」日本オペレーションズ・リサーチ学会 2023年春季研究発表会アブストラクト集, 14–15, 2023. [<a href="https://orsj.org/wp-content/nc-abstract/nc2023s/2023s-1-A-6.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
 
 ## Presentations
 ### Oral Presentations in International Conference
