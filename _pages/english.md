@@ -26,3 +26,4 @@ Research Fellow, The Institute of Statistical Mathematics<br>
 - The Operations Research Society of Japan
 - The Japan Society for Industrial and Applied Mathematics
 - The Institute for Operations Research and the Management Sciences
+- Society for Industrial and Applied Mathematics
