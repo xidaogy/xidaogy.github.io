@@ -50,3 +50,4 @@ redirect_from:
 - 日本オペレーションズ・リサーチ学会
 - 日本応用数理学会
 - INFORMS
+- SIAM
