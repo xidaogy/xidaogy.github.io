@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Publications
-### Refereed Journal Paper
+### Refereed Journal Papers
 1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>," Optimization Letters, 16: 1051&ndash;1071, 2022.
 1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>," Journal of Global Optimization, to be appeared.
 
