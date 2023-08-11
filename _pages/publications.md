@@ -7,14 +7,14 @@ author_profile: true
 ## Publications
 ### Refereed Journal Paper
 1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>," Optimization Letters, 16: 1051&ndash;1071, 2022.
+1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>," to be appeared.
 
 ### Refereed Conference Paper
 1. Mitsuhiro Nishijima, Ying Liu. "<a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>," Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 364&ndash;372, 2021.
 
 ### Preprints
-1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2211.12753" target="_blank" rel="noopener noreferrer">Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison</a>," arXiv:2211.12753, 2022.
-2. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">Generalizations of Doubly Nonnegative Cones and Their Comparison</a>," arXiv:2204.12119, 2023.
-3. Mitsuhiro Nishijima. "<a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>," arXiv:2305.13640, 2023.
+1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">Generalizations of Doubly Nonnegative Cones and Their Comparison</a>," arXiv:2204.12119, 2023.
+2. Mitsuhiro Nishijima. "<a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>," arXiv:2305.13640, 2023.
 
 ### Non-Refereed Conferrence Papers
 1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021. [<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
@@ -41,6 +41,7 @@ author_profile: true
 ### Poster Presentations in Domestic Conference
 1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会, P5-20, オンライン, 2021年3月.
 2. 西島光洋「アジア／ヨーロッパ言語母語の日本語学習者による品詞使用量の差異―I-JASの2つの作文タスクを用いた調査―」言語資源活用ワークショップ2021, p1-5s, オンライン, 2021年9月.
+3. 西島光洋「完全正値錐および共正値錐の面の最長の鎖について」連続最適化および関連分野に関する夏季学校, 統計数理研究所, 2023年8月.
 
 ### Other Presentation
 1. 西島光洋「求解困難な最適化問題に対する効率的解法の探究」高大連携教育, 東京工業大学附属科学技術高等学校, 2022年7月.
