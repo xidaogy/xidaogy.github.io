@@ -13,7 +13,7 @@ author_profile: true
 1. Mitsuhiro Nishijima, Ying Liu. "<a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>," Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 364&ndash;372, 2021.
 
 ### Preprints
-1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">Generalizations of Doubly Nonnegative Cones and Their Comparison</a>," arXiv:2204.12119, 2023.
+1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">Generalizations of doubly nonnegative cones and their comparison</a>," arXiv:2204.12119, 2023.
 2. Mitsuhiro Nishijima. "<a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>," arXiv:2305.13640, 2023.
 
 ### Non-Refereed Conferrence Papers
