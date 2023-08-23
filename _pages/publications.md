@@ -29,6 +29,7 @@ author_profile: true
 3. Mitsuhiro Nishijima, Kazuhide Nakata. "Generalization of Doubly Nonnegative Cone: Focusing on Inner-Approximation for Generalized Copositive Cone," 2022 INFORMS Annual Meeting, TE54, Indianapolis Marriott Downtown, October 2022.
 4. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison," International Workshop on Continuous Optimization, Online, December 2022.
 5. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison," SIAM Conference on Optimization, CP2, The Sheraton Grand Seattle, May 2023.
+6. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone," 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August, 2023.
 
 ### Oral Presentations in Domestic Conference
 1. 西島光洋・中田和秀「階数制約を伴うセンサーネットワーク位置推定問題に対するブロック座標降下法」京都大学数理解析研究所 共同研究(グループ型) 数理最適化の理論・アルゴリズム・応用, オンライン, 2020年8月.
