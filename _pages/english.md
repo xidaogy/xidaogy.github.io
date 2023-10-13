@@ -8,8 +8,10 @@ Ph.D. Student, Tokyo Institute of Technology<br>
 Research Fellow, The Institute of Statistical Mathematics<br>
 
 ## Research Interests
-- Mathematical Programming
+- Mathematical Optimization
   - Completely Positive Programming / Copositive Programming
+  - Completely Positive Cone / Copositive Cone
+  - Facial Structure
 
 ## Education
 - April 2015–March 2019: Bachelor of Science, Department of Mathematics, Faculty of Science and Technology, Keio University
