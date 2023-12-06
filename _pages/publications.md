@@ -7,7 +7,7 @@ author_profile: true
 ## Publications
 ### Refereed Journal Papers
 1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>," Optimization Letters, 16: 1051&ndash;1071, 2022.
-1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>," Journal of Global Optimization, to be appeared.
+1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>," Journal of Global Optimization, to appear.
 
 ### Refereed Conference Paper
 1. Mitsuhiro Nishijima, Ying Liu. "<a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>," Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 364&ndash;372, 2021.
@@ -29,7 +29,7 @@ author_profile: true
 3. Mitsuhiro Nishijima, Kazuhide Nakata. "Generalization of Doubly Nonnegative Cone: Focusing on Inner-Approximation for Generalized Copositive Cone," 2022 INFORMS Annual Meeting, TE54, Indianapolis Marriott Downtown, October 2022.
 4. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison," International Workshop on Continuous Optimization, Online, December 2022.
 5. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison," SIAM Conference on Optimization, CP2, The Sheraton Grand Seattle, May 2023.
-6. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone," 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August, 2023.
+6. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone," 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August 2023.
 7. Mitsuhiro Nishijima. "On the Longest Chain of Faces of Completely Positive and Copositive Cones," 2023 INFORMS Annual Meeting, SD32, Phoenix Convention Center, October 2023.
 
 ### Oral Presentations in Domestic Conference
