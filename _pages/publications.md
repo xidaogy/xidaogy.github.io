@@ -15,7 +15,6 @@ author_profile: true
 ### Preprints
 1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">Generalizations of doubly nonnegative cones and their comparison</a>," arXiv:2204.12119, 2023.
 2. Mitsuhiro Nishijima. "<a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>," arXiv:2305.13640, 2023.
-3. Mitsuhiro Nishijima, Bruno F. Lourenço. "<a href="https://optimization-online.org/2024/02/non-facial-exposedness-of-copositive-cones-over-symmetric-cones/" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>," Optimization Online, 2024.
 
 ### Non-Refereed Conferrence Papers
 1. 西島光洋・劉穎・中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集, 1028–1032, 2021. [<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
