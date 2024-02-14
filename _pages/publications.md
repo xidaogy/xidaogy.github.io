@@ -6,7 +6,6 @@ author_profile: true
 ---
 ## Publications
 ### Refereed Journal Papers
-1. Mitsuhiro Nishijima, Kazuhide Nakata. "Generalizations of doubly nonnegative cones and their comparison," Journal of the Operations Research Society of Japan, to appear. (Preprint version is <a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">here</a>.)
 2. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>," Journal of Global Optimization, to appear.
 3. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>," Optimization Letters, 16: 1051&ndash;1071, 2022.
 
