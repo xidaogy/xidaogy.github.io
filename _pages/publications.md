@@ -14,7 +14,7 @@ author_profile: true
 1. Mitsuhiro Nishijima, Ying Liu. "<a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>," Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 364&ndash;372, 2021.
 
 ### Preprints
-2. Mitsuhiro Nishijima, Bruno F. Lourenço. "<a href="https://optimization-online.org/2024/02/non-facial-exposedness-of-copositive-cones-over-symmetric-cones/" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>," Optimization Online, 2024.
+2. Mitsuhiro Nishijima, Bruno F. Lourenço. "<a href="https://doi.org/10.48550/arXiv.2402.12964" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>," arXiv:2402.12964, 2024.
 1. Mitsuhiro Nishijima. "<a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>," arXiv:2305.13640, 2023.
 
 ### Non-Refereed Conferrence Papers
