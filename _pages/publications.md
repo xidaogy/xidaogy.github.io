@@ -6,16 +6,16 @@ author_profile: true
 ---
 ## Publications
 ### Refereed Journal Papers
-3. Mitsuhiro Nishijima, Kazuhide Nakata. "Generalizations of doubly nonnegative cones and their comparison," Journal of the Operations Research Society of Japan, to appear. (Preprint version is <a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">here</a>.)
-2. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>," Journal of Global Optimization, to appear.
-1. Mitsuhiro Nishijima, Kazuhide Nakata. "<a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>," Optimization Letters, 16: 1051&ndash;1071, 2022.
+3. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: Generalizations of doubly nonnegative cones and their comparison, Journal of the Operations Research Society of Japan, to appear. (Preprint version is <a href="https://doi.org/10.48550/arXiv.2204.12119" target="_blank" rel="noopener noreferrer">here</a>.)
+2. Mitsuhiro Nishijima, Kazuhide Nakata: <a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>, Journal of Global Optimization, to appear.
+1. Mitsuhiro Nishijima, Kazuhide Nakata: <a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>, Optimization Letters, 16:1051&ndash;1071, 2022.
 
 ### Refereed Conference Paper
-1. Mitsuhiro Nishijima, Ying Liu. "<a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>," Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 364&ndash;372, 2021.
+1. Mitsuhiro Nishijima, Ying Liu: <a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>, Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 364&ndash;372, 2021.
 
 ### Preprints
-2. Mitsuhiro Nishijima, Bruno F. Lourenço. "<a href="https://doi.org/10.48550/arXiv.2402.12964" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>," arXiv:2402.12964, 2024.
-1. Mitsuhiro Nishijima. "<a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>," arXiv:2305.13640, 2023.
+2. Mitsuhiro Nishijima, Bruno F. Lourenço: <a href="https://doi.org/10.48550/arXiv.2402.12964" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>, arXiv:2402.12964, 2024.
+1. Mitsuhiro Nishijima: <a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>, arXiv:2305.13640, 2023.
 
 ### Non-Refereed Conferrence Papers
 4. 西島光洋・中田和秀「対称錐上の共正値錐に対する近似階層とその比較」日本オペレーションズ・リサーチ学会 2023年春季研究発表会アブストラクト集, 14–15, 2023. [<a href="https://orsj.org/wp-content/nc-abstract/nc2023s/2023s-1-A-6.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
@@ -25,13 +25,13 @@ author_profile: true
 
 ## Presentations
 ### Oral Presentations in International Conference
-7. Mitsuhiro Nishijima. "On the Longest Chain of Faces of Completely Positive and Copositive Cones," 2023 INFORMS Annual Meeting, SD32, Phoenix Convention Center, October 2023.
-6. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone," 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August 2023.
-5. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison," SIAM Conference on Optimization, CP2, The Sheraton Grand Seattle, May 2023.
-4. Mitsuhiro Nishijima, Kazuhide Nakata. "Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison," International Workshop on Continuous Optimization, Online, December 2022.
-3. Mitsuhiro Nishijima, Kazuhide Nakata. "Generalization of Doubly Nonnegative Cone: Focusing on Inner-Approximation for Generalized Copositive Cone," 2022 INFORMS Annual Meeting, TE54, Indianapolis Marriott Downtown, October 2022.
-2. Mitsuhiro Nishijima, Ying Liu. "Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus," The 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 35), Online, November 2021.
-1. Mitsuhiro Nishijima, Kazuhide Nakata. "A Block Coordinate Descent Method for Sensor Network Localization," SIAM Conference on Optimization, CP8, Online, July 2021.
+7. Mitsuhiro Nishijima: On the Longest Chain of Faces of Completely Positive and Copositive Cones, 2023 INFORMS Annual Meeting, SD32, Phoenix Convention Center, October 2023.
+6. Mitsuhiro Nishijima, Kazuhide Nakata: Approximation Hierarchies for Copositive Cone over Symmetric Cone, 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August 2023.
+5. Mitsuhiro Nishijima, Kazuhide Nakata: Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison, SIAM Conference on Optimization, CP2, The Sheraton Grand Seattle, May 2023.
+4. Mitsuhiro Nishijima, Kazuhide Nakata: Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison, International Workshop on Continuous Optimization, Online, December 2022.
+3. Mitsuhiro Nishijima, Kazuhide Nakata: Generalization of Doubly Nonnegative Cone: Focusing on Inner-Approximation for Generalized Copositive Cone, 2022 INFORMS Annual Meeting, TE54, Indianapolis Marriott Downtown, October 2022.
+2. Mitsuhiro Nishijima, Ying Liu: Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus, The 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 35), Online, November 2021.
+1. Mitsuhiro Nishijima, Kazuhide Nakata: A Block Coordinate Descent Method for Sensor Network Localization, SIAM Conference on Optimization, CP8, Online, July 2021.
 
 ### Oral Presentations in Domestic Conference
 7. 西島光洋「完全正値錐および共正値錐の面の最長の鎖について」日本オペレーションズ・リサーチ学会 2023年秋季研究発表会, 関西学院大学, 2023年9月.
