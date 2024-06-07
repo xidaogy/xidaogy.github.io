@@ -15,7 +15,7 @@ author_profile: true
 
 ### Preprints
 2. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: <a href="https://doi.org/10.48550/arXiv.2402.12964" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>. <i>arXiv</i>, 2402.12964, 2024.
-1. <b><u>Mitsuhiro Nishijima</u></b>: <a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of completely positive and copositive cones</a>. <i>arXiv</i>, 2305.13640, 2023.
+1. <b><u>Mitsuhiro Nishijima</u></b>: <a href="https://doi.org/10.48550/arXiv.2305.13640" target="_blank" rel="noopener noreferrer">On the longest chain of faces of the completely positive and copositive cones</a>. <i>arXiv</i>, 2305.13640, 2023.
 
 ### Non-Refereed Conferrence Papers
 4. <b><u>西島光洋</u></b>，中田和秀「対称錐上の共正値錐に対する近似階層とその比較」日本オペレーションズ・リサーチ学会 2023年春季研究発表会アブストラクト集，14–15，2023．[<a href="https://orsj.org/wp-content/nc-abstract/nc2023s/2023s-1-A-6.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
