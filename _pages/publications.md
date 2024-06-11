@@ -14,7 +14,7 @@ author_profile: true
 ### Refereed Conference Paper
 1. <b><u>Mitsuhiro Nishijima</u></b>, Ying Liu: <a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>. <i>Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation</i>, 364&ndash;372, 2021.
 
-### Preprints
+### Preprint
 2. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: <a href="https://doi.org/10.48550/arXiv.2402.12964" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>. <i>arXiv</i>, 2402.12964, 2024.
 
 ### Non-Refereed Conferrence Papers
