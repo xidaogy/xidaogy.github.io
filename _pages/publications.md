@@ -25,6 +25,7 @@ author_profile: true
 
 ## Presentations
 ### Oral Presentations in International Conference
+8. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: Non-facial Exposedness of Copositive Cones over Symmetric Cones. 25th International Symposium on Mathematical Programming, FA17, Palais des congrès de Montréal, July 2024.
 7. <b><u>Mitsuhiro Nishijima</u></b>: On the Longest Chain of Faces of Completely Positive and Copositive Cones. 2023 INFORMS Annual Meeting, SD32, Phoenix Convention Center, October 2023.
 6. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: Approximation Hierarchies for Copositive Cone over Symmetric Cone. 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August 2023.
 5. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: Approximation Hierarchies for Copositive Cone over Symmetric Cone and Their Comparison. SIAM Conference on Optimization, CP2, The Sheraton Grand Seattle, May 2023.
