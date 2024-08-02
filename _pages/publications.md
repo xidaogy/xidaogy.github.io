@@ -7,7 +7,7 @@ author_profile: true
 ## Publications
 ### Refereed Journal Papers
 4. <b><u>Mitsuhiro Nishijima</u></b>: <a href="https://doi.org/10.1016/j.laa.2024.06.012" target="_blank" rel="noopener noreferrer">On the longest chain of faces of the completely positive and copositive cones</a>. <i>Linear Algebra and its Applications</i>, <b>698</b>:479&ndash;491, 2024.
-3. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.15807/jorsj.67.84" target="_blank" rel="noopener noreferrer">Generalizations of doubly nonnegative cones and their comparison. <i>Journal of the Operations Research Society of Japan</i>, <b>67</b>(3):84&ndash;109, 2024.
+3. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.15807/jorsj.67.84" target="_blank" rel="noopener noreferrer">Generalizations of doubly nonnegative cones and their comparison</a>. <i>Journal of the Operations Research Society of Japan</i>, <b>67</b>(3):84&ndash;109, 2024.
 2. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>. <i>Journal of Global Optimization</i>, <b>88</b>(4):831&ndash;870, 2024.
 1. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.1007/s11590-021-01762-9" target="_blank" rel="noopener noreferrer">A block coordinate descent method for sensor network localization</a>. <i>Optimization Letters</i>, <b>16</b>(3):1051&ndash;1071, 2022.
 
