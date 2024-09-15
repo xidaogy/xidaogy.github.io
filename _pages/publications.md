@@ -35,6 +35,7 @@ author_profile: true
 1. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: A Block Coordinate Descent Method for Sensor Network Localization. SIAM Conference on Optimization, CP8, Online, July 2021.
 
 ### Oral Presentations in Domestic Conference
+9. <b><u>西島光洋</u></b>，ブルノ・ロウレンソ「対称錐上の共正値錐および完全正値錐の面的構造」日本応用数理学会 2024年度年会，京都大学，2024年9月．
 8. <b><u>西島光洋</u></b>，ブルノ・ロウレンソ「対称錐上の共正値錐の面露出性」最適化の理論とアルゴリズム：未来を担う若手研究者の集い 2024，筑波大学，2024年5月．
 7. <b><u>西島光洋</u></b>「完全正値錐および共正値錐の面の最長の鎖について」日本オペレーションズ・リサーチ学会 2023年秋季研究発表会，関西学院大学，2023年9月．
 6. <b><u>西島光洋</u></b>「行列錐の面の最長の鎖について」最適化の理論とアルゴリズム：未来を担う若手研究者の集い 2023，筑波大学，2023年5月．
