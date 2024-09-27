@@ -24,7 +24,7 @@ author_profile: true
 1. <b><u>西島光洋</u></b>，劉穎，中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会発表論文集，1028–1032，2021．[<a href="https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-20.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
 
 ## Presentations
-### Oral Presentations in International Conference
+### Oral Presentations in International Conference and Workshop
 8. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: Non-facial Exposedness of Copositive Cones over Symmetric Cones. 25th International Symposium on Mathematical Programming, FA17, Palais des congrès de Montréal, July 2024.
 7. <b><u>Mitsuhiro Nishijima</u></b>: On the Longest Chain of Faces of Completely Positive and Copositive Cones. 2023 INFORMS Annual Meeting, SD32, Phoenix Convention Center, October 2023.
 6. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: Approximation Hierarchies for Copositive Cone over Symmetric Cone. 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August 2023.
@@ -34,7 +34,8 @@ author_profile: true
 2. <b><u>Mitsuhiro Nishijima</u></b>, Ying Liu: Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus. The 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 35), Online, November 2021.
 1. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: A Block Coordinate Descent Method for Sensor Network Localization. SIAM Conference on Optimization, CP8, Online, July 2021.
 
-### Oral Presentations in Domestic Conference
+### Oral Presentations in Domestic Conference and Workshop
+10. <b><u>西島光洋</u></b>「完全正値錐および共正値錐の面的構造」研究集会「最適化，計算機科学，代数幾何」，電気通信大学，2024年9月．
 9. <b><u>西島光洋</u></b>，ブルノ・ロウレンソ「対称錐上の共正値錐および完全正値錐の面的構造」日本応用数理学会 2024年度年会，京都大学，2024年9月．
 8. <b><u>西島光洋</u></b>，ブルノ・ロウレンソ「対称錐上の共正値錐の面露出性」最適化の理論とアルゴリズム：未来を担う若手研究者の集い 2024，筑波大学，2024年5月．
 7. <b><u>西島光洋</u></b>「完全正値錐および共正値錐の面の最長の鎖について」日本オペレーションズ・リサーチ学会 2023年秋季研究発表会，関西学院大学，2023年9月．
@@ -45,7 +46,7 @@ author_profile: true
 2. <b><u>西島光洋</u></b>，中田和秀「一般化共正値錐に対する内側近似階層から着想を得た一般化二重非負錐の提案」最適化：モデリングとアルゴリズム，オンライン（政策研究大学院大学），2022年3月．
 1. <b><u>西島光洋</u></b>，中田和秀「階数制約を伴うセンサーネットワーク位置推定問題に対するブロック座標降下法」京都大学数理解析研究所 共同研究(グループ型) 数理最適化の理論・アルゴリズム・応用，オンライン，2020年8月．
 
-### Poster Presentations in Domestic Conference
+### Poster Presentations in Domestic Conference and Workshop
 3. <b><u>西島光洋</u></b>「完全正値錐および共正値錐の面の最長の鎖について」連続最適化および関連分野に関する夏季学校，統計数理研究所，2023年8月．
 2. <b><u>西島光洋</u></b>「アジア／ヨーロッパ言語母語の日本語学習者による品詞使用量の差異―I-JASの2つの作文タスクを用いた調査―」言語資源活用ワークショップ2021，p1-5s，オンライン，2021年9月．
 1. <b><u>西島光洋</u></b>，劉穎，中田和秀「日本語学習者コーパスI-JASを用いた母語識別」言語処理学会第27回年次大会，P5-20，オンライン，2021年3月．
