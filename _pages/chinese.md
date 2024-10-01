@@ -4,7 +4,7 @@ title: "西岛光洋"
 permalink: /chinese/
 author_profile: true
 ---
-理化学研究所 革新智能统合研究中心 连续优化课题组<br>
+理化学研究所 革新智能统合研究中心 连续优化课题组 特别研究员<br>
 
 ## 研究方向
 - 数学优化
