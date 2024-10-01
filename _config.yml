@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "NISHIJIMA Mitsuhiro"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. student at Tokyo Institute of Technology and research fellow at the Institute of Statistical Mathematics"
+  bio              : "Postdoctoral Researcher at RIKEN AIP"
   location         : "Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : nishijima.m.ae@m.titech.ac.jp
+  email            : mitsuhiro.nishijima@riken.jp
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
