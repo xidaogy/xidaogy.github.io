@@ -25,6 +25,7 @@ author_profile: true
 
 ## Presentations
 ### Oral Presentations in International Conference and Workshop
+9. <b><u>Mitsuhiro Nishijima</u></b>: Facial Structure of Completely Positive and Copositive Cones. Workshop on Advances in Continuous Optimization, RIKEN Center for Advanced Intelligence Project, November 2024.
 8. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: Non-facial Exposedness of Copositive Cones over Symmetric Cones. 25th International Symposium on Mathematical Programming, FA17, Palais des congrès de Montréal, July 2024.
 7. <b><u>Mitsuhiro Nishijima</u></b>: On the Longest Chain of Faces of Completely Positive and Copositive Cones. 2023 INFORMS Annual Meeting, SD32, Phoenix Convention Center, October 2023.
 6. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: Approximation Hierarchies for Copositive Cone over Symmetric Cone. 10th International Congress on Industrial and Applied Mathematics, 01718, Waseda University, August 2023.
