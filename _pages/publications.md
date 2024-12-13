@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Publications
 ### Refereed Journal Papers
+5. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: <a href="https://doi.org/10.1016/j.jmaa.2024.129166" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>. <i>Journal of Mathematical Analysis and Applications</i>, to appear.
 4. <b><u>Mitsuhiro Nishijima</u></b>: <a href="https://doi.org/10.1016/j.laa.2024.06.012" target="_blank" rel="noopener noreferrer">On the longest chain of faces of the completely positive and copositive cones</a>. <i>Linear Algebra and its Applications</i>, <b>698</b>:479&ndash;491, 2024.
 3. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.15807/jorsj.67.84" target="_blank" rel="noopener noreferrer">Generalizations of doubly nonnegative cones and their comparison</a>. <i>Journal of the Operations Research Society of Japan</i>, <b>67</b>(3):84&ndash;109, 2024.
 2. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>. <i>Journal of Global Optimization</i>, <b>88</b>(4):831&ndash;870, 2024.
@@ -14,8 +15,7 @@ author_profile: true
 ### Refereed Conference Paper
 1. <b><u>Mitsuhiro Nishijima</u></b>, Ying Liu: <a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>. <i>Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation</i>, 364&ndash;372, 2021.
 
-### Preprint
-2. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: <a href="https://doi.org/10.48550/arXiv.2402.12964" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>. <i>arXiv</i>, 2402.12964, 2024.
+<!-- ### Preprint -->
 
 ### Non-Refereed Conferrence Papers
 4. <b><u>西島光洋</u></b>，中田和秀「対称錐上の共正値錐に対する近似階層とその比較」日本オペレーションズ・リサーチ学会 2023年春季研究発表会アブストラクト集，14–15，2023．[<a href="https://orsj.org/wp-content/nc-abstract/nc2023s/2023s-1-A-6.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
