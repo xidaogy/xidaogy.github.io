@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Publications
 ### Refereed Journal Papers
-5. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: <a href="https://doi.org/10.1016/j.jmaa.2024.129166" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>. <i>Journal of Mathematical Analysis and Applications</i>, to appear.
+5. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: <a href="https://doi.org/10.1016/j.jmaa.2024.129166" target="_blank" rel="noopener noreferrer">Non-facial exposedness of copositive cones over symmetric cones</a>. <i>Journal of Mathematical Analysis and Applications</i>, <b>545</b>(2):129166, 2025.
 4. <b><u>Mitsuhiro Nishijima</u></b>: <a href="https://doi.org/10.1016/j.laa.2024.06.012" target="_blank" rel="noopener noreferrer">On the longest chain of faces of the completely positive and copositive cones</a>. <i>Linear Algebra and its Applications</i>, <b>698</b>:479&ndash;491, 2024.
 3. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.15807/jorsj.67.84" target="_blank" rel="noopener noreferrer">Generalizations of doubly nonnegative cones and their comparison</a>. <i>Journal of the Operations Research Society of Japan</i>, <b>67</b>(3):84&ndash;109, 2024.
 2. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata: <a href="https://doi.org/10.1007/s10898-023-01319-3" target="_blank" rel="noopener noreferrer">Approximation hierarchies for copositive cone over symmetric cone and their comparison</a>. <i>Journal of Global Optimization</i>, <b>88</b>(4):831&ndash;870, 2024.
