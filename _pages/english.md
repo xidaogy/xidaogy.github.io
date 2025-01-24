@@ -27,5 +27,5 @@ Postdoctoral Researcher, Continuous Optimization Team, RIKEN Center for Advanced
 ## Society Membership
 - The Operations Research Society of Japan
 - The Japan Society for Industrial and Applied Mathematics
-- The Institute for Operations Research and the Management Sciences
-- Society for Industrial and Applied Mathematics
+<!-- - The Institute for Operations Research and the Management Sciences
+- Society for Industrial and Applied Mathematics -->
