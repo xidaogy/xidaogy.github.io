@@ -15,7 +15,9 @@ author_profile: true
 ### Refereed Conference Paper
 1. <b><u>Mitsuhiro Nishijima</u></b>, Ying Liu: <a href="https://aclanthology.org/2021.paclic-1.39/" target="_blank" rel="noopener noreferrer">Native Language Identification and Reconstruction of Native Language Relationship Using Japanese Learner Corpus</a>. <i>Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation</i>, 364&ndash;372, 2021.
 
-<!-- ### Preprint -->
+### Preprint
+1. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço: <a href="
+https://doi.org/10.48550/arXiv.2502.04006" target="_blank" rel="noopener noreferrer">Facial structure of copositive and completely positive cones over a second-order cone</a>. <i>arXiv</i>, 2502.04006, 2025.
 
 ### Non-Refereed Conferrence Papers
 5. <b><u>西島光洋</u></b>，ロウレンソ・武流野・フィゲラ「対称錐上の共正値錐および完全正値錐の面的構造」日本応用数理学会 2024年度 年会 講演予稿集，D2-1-3，2024．
