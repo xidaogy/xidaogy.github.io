@@ -18,6 +18,7 @@ author_profile: true
 <!-- ### Preprint -->
 
 ### Non-Refereed Conferrence Papers
+5. <b><u>西島光洋</u></b>，ロウレンソ・武流野・フィゲラ「対称錐上の共正値錐および完全正値錐の面的構造」日本応用数理学会 2024年度 年会 講演予稿集，D2-1-3，2024．
 4. <b><u>西島光洋</u></b>，中田和秀「対称錐上の共正値錐に対する近似階層とその比較」日本オペレーションズ・リサーチ学会 2023年春季研究発表会アブストラクト集，14–15，2023．[<a href="https://orsj.org/wp-content/nc-abstract/nc2023s/2023s-1-A-6.pdf" target="_blank" rel="noopener noreferrer">pdf</a>]
 3. <b><u>Mitsuhiro Nishijima</u></b>, Kazuhide Nakata. Generalizations of Doubly Nonnegative Cones and Their Comparison. Optimization &mdash;Modeling and Algorithms&mdash; 34, The Institute of Statistical Mathematics Cooperative Research Report, 461: 14&ndash;30, 2023.
 2. <b><u>西島光洋</u></b>「<a href="http://doi.org/10.15084/00003480" target="_blank" rel="noopener noreferrer">アジア／ヨーロッパ言語母語の日本語学習者による品詞使用量の差異―I-JASの2つの作文タスクを用いた調査―</a>」言語資源活用ワークショップ発表論文集，6: 55&ndash;70，2021．
