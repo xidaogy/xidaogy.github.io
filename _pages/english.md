@@ -25,7 +25,7 @@ Postdoctoral Researcher, Continuous Optimization Team, RIKEN Center for Advanced
 - October 2021–March 2022: Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students
 
 ## Society Membership
-- The Operations Research Society of Japan
-- The Japan Society for Industrial and Applied Mathematics
+- July 2019–present: The Operations Research Society of Japan
+- July 2022–present: The Japan Society for Industrial and Applied Mathematics
 <!-- - The Institute for Operations Research and the Management Sciences -->
 <!-- - Society for Industrial and Applied Mathematics -->
