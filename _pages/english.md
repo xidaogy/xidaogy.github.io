@@ -7,6 +7,7 @@ author_profile: true
 Postdoctoral Researcher, Continuous Optimization Team, RIKEN Center for Advanced Intelligence Project<br>
 
 ## Research Interests
+- Operations Research
 - Mathematical Optimization
   - Completely Positive Programming / Copositive Programming
   - Completely Positive Cone / Copositive Cone
