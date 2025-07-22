@@ -30,6 +30,7 @@ https://doi.org/10.48550/arXiv.2502.04006" target="_blank" rel="noopener norefer
 
 ## Presentations
 ### Oral Presentations in International Conference and Workshop
+10. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço. Facial Structure of Copositive and Completely Positive Cones over Second-Order Cones. The Eighth International Conference on Continuous Optimization, The University of Southern California, July 2025.
 9. <b><u>Mitsuhiro Nishijima</u></b>. Facial Structure of Completely Positive and Copositive Cones. Workshop on Advances in Continuous Optimization, RIKEN Center for Advanced Intelligence Project, November 2024.
 8. <b><u>Mitsuhiro Nishijima</u></b>, Bruno F. Lourenço. Non-facial Exposedness of Copositive Cones over Symmetric Cones. 25th International Symposium on Mathematical Programming, FA17, Palais des congrès de Montréal, July 2024.
 7. <b><u>Mitsuhiro Nishijima</u></b>. On the Longest Chain of Faces of Completely Positive and Copositive Cones. 2023 INFORMS Annual Meeting, SD32, Phoenix Convention Center, October 2023.
