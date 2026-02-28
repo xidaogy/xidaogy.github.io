@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Links</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body data-page="links" data-lang="ja">
+    <header class="site-header">
+      <div class="header-inner">
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-label="メニューを開く">☰</button>
+        <nav class="top-nav" aria-label="Primary navigation">
+          <a class="nav-btn" href="/">ホーム</a>
+          <a class="nav-btn" href="/research/" data-set-lang="ja">研究業績</a>
+          <a class="nav-btn active" href="/links/">リンク</a>
+        </nav>
+        <!-- <div class="lang-switch" aria-label="Language selector">
+          <a class="lang-btn active" href="/">日本語</a>
+          <a class="lang-btn" href="/en/">English</a>
+          <a class="lang-btn" href="/zh/">简体中文</a>
+        </div> -->
+      </div>
+    </header>
+
+    <main>
+      <section class="screen active" aria-label="Links">
+        <div class="content-grid single-column">
+          <article>
+            <section class="anchor-section">
+              <h2>リンク</h2>
+              <ul>
+                <li><a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a></li>
+                <li><a href="https://scholar.google.com/" target="_blank" rel="noreferrer">Google Scholar</a></li>
+              </ul>
+            </section>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer"><small>© <span id="credit-year"></span> NISHIJIMA Mitsuhiro</small></footer>
+    <script src="/script.js"></script>
+  </body>
+</html>
