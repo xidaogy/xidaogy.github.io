@@ -34,6 +34,27 @@ const researchI18n = {
   }
 };
 
+const GA_MEASUREMENT_ID = "G-X51VWBTS6Q";
+
+function setupGoogleAnalytics() {
+  if (!GA_MEASUREMENT_ID) return;
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    window.dataLayer.push(arguments);
+  }
+
+  window.gtag = gtag;
+
+  const gaScript = document.createElement("script");
+  gaScript.async = true;
+  gaScript.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(GA_MEASUREMENT_ID)}`;
+  document.head.appendChild(gaScript);
+
+  gtag("js", new Date());
+  gtag("config", GA_MEASUREMENT_ID);
+}
+
 function setCreditYear() {
   const creditYear = document.getElementById("credit-year");
   if (!creditYear) return;
@@ -95,6 +116,7 @@ function setupResearchPage() {
 
 setCreditYear();
 rememberLanguageFromPage();
+setupGoogleAnalytics();
 
 if (document.body.dataset.page === "research") {
   setupResearchPage();
